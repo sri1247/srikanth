@@ -1,0 +1,65 @@
+package Utility;
+
+import org.apache.poi.hssf.usermodel.HSSFCell;
+import org.apache.poi.hssf.usermodel.HSSFRow;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+
+import java.io.FileOutputStream;
+
+/**
+ * Created by Srikanth on 3/22/2017.
+ */
+public class Constant {
+    public static final String monsterURL = "http://www.monsterindia.com/";
+    public  static final String naukriURl="https://www.naukri.com/";
+    public static final String Path_TestData ="D:\\RecruiterBehaviourAutomation\\RecruiterBehaviourAutomation\\src\\main\\java\\TestData\\";
+    public static final String readFile_TestData ="ExampleExcel.xls";
+
+    public static class WriteExcel {
+        private static HSSFWorkbook workbook;
+        private static HSSFSheet sheet;
+        private static HSSFCell cell;
+        private  static HSSFRow row;
+
+
+
+        public static void writeDataToExcel(String result,int rownum,int colnum)throws Exception{
+            //FileInputStream fileinput=new FileInputStream("D:\\WriteExcel.xls");
+            workbook=new HSSFWorkbook();
+            sheet=workbook.createSheet("profilesdata");
+            //sheet=workbook.getSheetAt(0);
+            row=sheet.getRow(rownum);
+            if (row == null){
+               // row=sheet.c
+                row=sheet.createRow(rownum);
+
+            }else{
+                row=sheet.getRow(rownum);
+            }
+
+            cell=row.getCell(colnum);
+            //.setCellValue(Result);
+            if (cell == null) {
+
+                cell = row.createCell((short) colnum);
+               // sheet.autoSizeColumn(Short.parseShort(result));
+
+                cell.setCellValue(result);
+
+            } else {
+
+                cell.setCellValue(result);
+
+            }
+
+            FileOutputStream fileOut = new FileOutputStream("C:\\Windows\\Temp\\WriteExcel.xls");
+
+            workbook.write(fileOut);
+
+            fileOut.flush();
+
+            fileOut.close();
+        }
+    }
+}

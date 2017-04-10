@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.poi.hssf.usermodel.HSSFCell CELL_TYPE_NUMERIC'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

@@ -1,0 +1,59 @@
+package Utility;
+
+import org.apache.poi.hssf.usermodel.HSSFCell;
+import org.apache.poi.hssf.usermodel.HSSFRow;
+import org.apache.poi.hssf.usermodel.HSSFSheet;
+import org.apache.poi.hssf.usermodel.HSSFWorkbook;
+
+import java.io.FileInputStream;
+
+public class Excelutility {
+
+    private static HSSFSheet excelWSheet;
+    private static HSSFWorkbook excelWbook;
+    private static HSSFCell cell;
+    private static HSSFRow row;
+    private static int intCell;
+
+    public Excelutility() throws Exception {
+
+    }
+//String path=Constant.Path_TestData+Constant.readFile_TestData;
+    public  void setExcelFile(String path) throws Exception {
+
+        try {
+            FileInputStream excelFile = new FileInputStream(path);
+            excelWbook = new HSSFWorkbook(excelFile);
+            //excelWSheet = excelWbook.getSheet(SheetName);
+        } catch (Exception e) {
+            System.out.println(e);
+        }
+
+    }
+
+    public  String getCellData(int RowNum, int colNum, String SheetName) throws Exception {
+        try {
+            excelWSheet = excelWbook.getSheet(SheetName);
+            cell = excelWSheet.getRow(RowNum).getCell(colNum);
+            String cellData = cell.getStringCellValue();
+            return cellData;
+        } catch (Exception e) {
+            return "";
+        }
+    }
+
+    public  String getIntcell(int RowNum, int ColNum, String SheetName) {
+        try {
+            excelWSheet = excelWbook.getSheet(SheetName);
+            intCell = (int) excelWSheet.getRow(RowNum).getCell(ColNum).getNumericCellValue();
+            String intcelldata = String.valueOf(intCell);
+            return intcelldata;
+        } catch (Exception e) {
+
+            return "";
+
+        }
+
+
+    }
+}

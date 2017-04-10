@@ -1,0 +1,1124 @@
+2017-03-30 17:32:09,705 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 17:32:15,057 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 17:32:15,430 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 17:32:15,663 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 17:32:23,802 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:26:14,521 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:26:22,841 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:26:23,595 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:27:29,086 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:27:34,444 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:27:34,809 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:27:35,043 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:27:41,525 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:28:08,013 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:28:14,606 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:28:35,766 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:28:36,016 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:28:45,694 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:31:01,732 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:31:07,076 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:31:49,121 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:31:49,341 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:31:58,113 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:36:11,946 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:36:18,741 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:36:19,930 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:36:20,162 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:36:29,008 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:39:15,739 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:39:41,329 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:39:42,109 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:39:42,349 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:39:51,412 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:46:15,124 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:46:27,852 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:46:41,299 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:46:41,529 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:46:51,682 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:50:44,695 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:51:10,106 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:51:10,546 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:51:10,756 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:51:19,248 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:56:58,495 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 18:57:24,445 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 18:57:24,784 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 18:57:24,999 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 18:57:36,232 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 18:59:15,877 [Forwarding isElementDisplayed on session 795ae510-1db4-4e01-ad23-accb5b570b33 to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://127.0.0.1:7055: The target server failed to respond
+2017-03-30 18:59:15,877 [Forwarding isElementDisplayed on session 795ae510-1db4-4e01-ad23-accb5b570b33 to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://127.0.0.1:7055
+2017-03-30 19:01:23,163 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:01:29,940 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:01:30,313 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:01:30,525 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:01:40,153 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:17:36,683 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:17:44,874 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:17:45,221 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:17:45,456 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:17:54,150 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:20:20,441 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:20:47,242 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:20:48,425 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:20:48,651 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:20:57,393 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:24:47,106 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:24:52,712 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:25:13,704 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:25:13,974 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:25:24,644 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:28:59,920 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:29:06,752 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:29:07,606 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:29:07,867 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:29:18,975 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:32:17,453 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:32:45,725 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:32:46,604 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:32:46,807 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:32:59,269 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:33:36,766 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:34:04,014 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:34:04,768 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:34:04,998 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:34:14,060 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:41:48,610 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:41:54,171 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:41:55,251 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:41:55,508 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:42:05,916 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:48:43,623 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:48:49,426 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:48:50,281 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:48:50,481 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:50:44,109 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 19:53:48,785 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 19:54:36,130 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 19:54:36,590 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 19:54:36,810 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 19:55:32,269 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:02:50,356 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:03:17,297 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:03:17,634 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:03:17,844 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:03:47,379 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:08:48,609 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:08:54,640 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:08:54,993 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:08:55,209 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:09:05,200 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:10:24,716 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:10:30,710 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:10:31,050 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:10:31,303 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:10:40,099 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:13:00,532 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:13:08,542 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:13:08,973 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:13:09,206 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:13:35,715 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:14:30,182 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:14:35,925 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:14:36,269 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:14:36,525 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:14:46,571 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:17:03,970 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:17:10,552 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:17:11,467 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:17:11,848 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:17:23,103 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:23:34,903 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:24:32,293 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:24:43,513 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:24:43,833 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:24:56,664 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-30 20:57:23,247 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-30 20:57:32,629 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-30 20:57:33,748 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-30 20:57:33,975 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-30 20:57:44,152 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:39:35,544 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:39:47,164 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:39:47,710 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:39:48,240 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:40:01,763 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:41:34,786 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:41:41,609 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:41:42,750 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:41:42,999 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:41:51,733 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:42:48,094 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:42:53,726 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:42:54,869 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:42:55,126 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:43:28,132 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:45:47,122 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:46:13,398 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:46:15,176 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:46:15,410 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:46:46,552 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:47:40,052 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:48:06,170 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:48:07,184 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:48:07,418 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:48:38,236 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 09:51:55,184 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 09:52:19,875 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 09:52:20,358 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 09:52:20,592 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 09:52:30,729 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 10:05:10,055 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 10:05:16,798 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 10:05:17,587 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 10:05:17,960 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 10:05:51,307 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 10:06:34,318 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 10:07:02,098 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 10:07:02,433 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 10:07:02,650 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 10:07:14,841 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 10:41:41,074 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 10:42:07,214 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 10:42:07,968 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 10:42:08,170 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 10:42:37,845 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:27:54,337 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:28:02,177 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:28:02,550 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:28:02,783 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:28:15,866 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:32:25,433 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:32:33,354 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:32:34,422 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:32:34,664 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:32:42,868 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:34:23,280 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:34:33,161 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:34:34,218 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:34:34,451 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:34:48,767 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:42:02,275 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:42:07,714 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:42:08,056 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:42:08,259 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:42:18,003 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:44:30,096 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:44:36,862 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:44:37,259 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:44:37,463 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:44:46,647 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:45:41,224 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:45:47,636 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:45:47,986 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:45:48,212 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:46:09,932 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:47:39,129 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:47:45,064 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:47:45,516 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:47:45,746 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:48:01,467 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:50:20,254 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:50:27,847 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:50:28,329 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:50:28,558 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:50:42,108 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 11:54:22,672 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 11:54:32,437 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 11:54:32,762 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 11:54:32,994 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 11:54:42,989 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:10:50,322 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:10:58,584 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:10:58,920 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:10:59,152 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:11:03,625 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:11:19,399 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:11:25,351 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:11:45,873 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:11:46,103 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:11:54,509 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:26:07,369 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:26:13,940 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:26:14,285 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:26:14,501 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:26:23,043 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:27:47,880 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:28:14,006 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:28:15,103 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:28:15,322 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:28:24,591 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:30:24,912 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:30:30,571 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:30:30,910 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:30:31,136 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:30:41,331 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:33:53,529 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:34:02,239 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:34:03,919 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:34:04,167 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:34:13,522 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:40:48,146 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:40:54,075 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:40:58,816 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:40:59,038 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:41:08,939 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:43:26,797 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:43:33,722 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:43:34,606 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:43:34,821 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:43:45,440 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 12:45:07,577 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 12:45:12,928 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 12:45:13,690 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 12:45:13,912 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 12:45:22,344 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 13:57:07,619 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 13:58:07,677 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 13:58:08,137 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 13:58:08,397 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 13:58:22,766 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 14:00:42,787 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 14:00:48,542 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 14:00:49,315 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 14:00:49,538 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 14:01:00,255 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 14:02:59,265 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 14:03:05,734 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 14:03:07,041 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 14:03:07,275 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 14:03:16,043 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 14:20:57,122 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 14:21:03,726 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 14:21:04,102 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 14:21:04,322 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 14:21:12,760 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 15:03:06,042 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 15:03:13,466 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 15:03:13,941 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 15:03:14,177 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 15:03:44,467 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 15:58:25,593 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 15:58:51,353 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 15:58:52,603 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 15:58:52,833 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 15:59:06,792 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 16:02:22,175 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 16:02:48,346 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 16:02:48,816 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 16:02:49,056 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 16:03:40,180 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 16:06:56,313 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 16:07:01,981 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 16:07:03,044 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 16:07:03,285 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 16:07:12,837 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 16:08:19,433 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 16:08:26,045 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 16:08:26,576 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 16:08:26,793 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 16:08:36,203 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 17:06:34,985 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 17:06:41,789 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 17:06:42,263 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 17:06:42,535 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 17:07:14,225 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 17:08:57,657 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 17:09:09,340 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 17:09:10,004 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 17:09:10,871 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 17:09:22,032 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 17:11:03,806 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 17:11:15,572 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 17:11:21,802 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 17:11:22,072 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 17:11:54,372 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 17:12:51,339 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 17:13:02,035 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 17:13:03,520 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 17:13:03,767 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 17:13:51,747 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 17:53:41,206 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 17:53:52,087 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 17:53:52,426 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 17:53:52,650 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 17:54:01,693 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:00:42,052 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:00:48,102 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:00:48,433 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:00:48,658 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:00:57,918 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:02:46,987 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:02:55,707 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:02:56,038 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:02:56,291 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:03:07,450 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:04:25,847 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:04:31,369 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:04:32,070 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:04:32,284 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:04:42,873 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:35:06,150 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:35:11,968 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:35:12,317 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:35:12,535 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:35:17,763 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:35:33,479 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:35:48,680 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:35:49,695 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:35:49,920 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:35:55,417 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:38:33,556 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:38:59,304 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:39:00,282 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:39:00,515 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:39:05,621 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-03-31 18:57:37,531 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:57:54,511 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:57:54,861 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:57:55,181 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:58:45,044 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-03-31 18:58:50,793 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-03-31 18:58:51,569 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-03-31 18:58:51,814 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-03-31 18:58:56,475 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-02 13:02:37,217 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-02 13:02:59,569 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-02 13:03:14,390 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-02 13:03:15,317 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-02 13:03:44,393 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-02 13:12:46,424 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-02 13:13:20,013 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-02 13:13:35,794 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-02 13:13:36,425 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-02 13:13:59,711 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-02 13:21:28,424 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-02 13:21:44,783 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-02 13:21:48,156 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-02 13:21:49,255 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-02 13:22:18,272 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-02 21:55:39,357 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-02 21:56:53,795 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-02 21:56:55,715 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-02 21:56:56,623 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-02 22:43:14,696 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-03 17:34:23,000 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 20:33:46,484 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 20:38:15,928 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 20:52:20,823 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 20:52:57,256 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 20:53:15,842 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 20:53:34,651 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 20:53:45,427 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 20:53:49,056 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 20:54:15,829 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-04 20:55:36,528 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 20:55:51,544 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 20:55:52,171 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 20:56:07,953 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 20:56:12,853 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 20:56:13,495 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 20:56:35,495 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-04 21:06:24,062 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 21:06:37,477 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 21:06:37,867 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 21:06:53,964 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 21:06:56,078 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 21:06:56,818 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 21:07:13,990 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-04 21:09:00,606 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 21:09:14,723 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 21:09:15,632 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 21:09:46,214 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 21:09:47,244 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 21:09:47,854 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 21:10:07,069 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-04 21:11:20,557 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 21:11:34,714 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 21:11:35,265 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 21:12:29,314 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 21:12:30,384 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 21:12:30,996 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 21:13:14,114 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-04 21:14:27,500 [main] INFO Actions.BrowserSetup - initialize WebDriver Firefox
+2017-04-04 21:14:41,809 [main] INFO Actions.BrowserSetup - Opened WebDriver firefox 
+2017-04-04 21:14:42,240 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-04 21:14:59,083 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-04 21:15:33,849 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-04 21:15:34,491 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-04 21:16:05,847 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 10:52:15,852 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 10:52:38,909 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 10:52:39,689 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 10:52:39,859 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 10:53:09,394 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 11:33:33,865 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 11:33:40,367 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 11:33:40,726 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 11:33:40,903 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 11:33:52,079 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 12:13:47,813 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 12:13:58,021 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 12:13:59,162 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 12:13:59,321 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 12:14:18,736 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 12:18:18,936 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 12:18:25,437 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 12:18:26,351 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 12:18:26,600 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 12:18:35,775 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 12:20:05,705 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 12:20:31,785 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 12:20:32,127 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 12:20:32,407 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 12:20:51,598 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 12:23:41,110 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 12:24:11,597 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 12:24:20,296 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 12:24:20,771 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 12:24:34,375 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 12:25:03,012 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:03:15,949 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:03:23,216 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:04:09,716 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:04:09,896 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:04:27,292 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:06:38,589 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:06:46,814 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:06:47,468 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:06:47,644 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:07:03,979 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:12:47,382 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:12:53,839 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:12:54,806 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:12:54,958 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:13:16,135 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:17:13,940 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:17:21,180 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:17:22,583 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:17:22,760 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:17:38,807 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:19:25,203 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:19:51,072 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:19:52,249 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:19:52,414 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:20:58,392 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:22:45,330 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:22:55,505 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:23:15,332 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:23:15,522 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:24:05,300 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:35:39,514 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:35:54,990 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:35:55,780 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:35:55,960 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:36:06,879 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:50:05,881 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:50:13,669 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:50:14,017 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:50:14,206 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:50:25,546 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:51:16,023 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:51:22,896 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:51:23,394 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:51:23,651 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:51:32,732 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:53:25,630 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:53:33,666 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:53:34,908 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:53:35,080 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:53:46,514 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:54:57,274 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:55:07,684 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:55:08,038 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:55:08,244 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:55:17,186 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:56:04,668 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:56:15,567 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:56:16,023 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:56:16,199 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:56:29,912 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:57:52,076 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:57:57,876 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:57:58,921 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:57:59,084 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 13:58:08,184 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 13:59:26,924 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 13:59:39,344 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 13:59:39,883 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 13:59:40,064 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:00:07,457 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:03:09,417 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:03:43,401 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:03:44,061 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:03:44,231 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:04:01,117 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:06:24,089 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:06:48,860 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:06:50,360 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:06:50,560 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:07:13,770 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:10:56,745 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:11:03,861 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:11:04,708 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:11:04,886 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:11:16,572 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:30:01,209 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:30:08,048 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:30:08,448 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:30:08,624 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:30:18,550 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:36:03,199 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:36:09,699 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:36:10,750 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:36:11,072 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:36:18,993 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:39:34,087 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:39:41,197 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:39:42,174 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:39:42,355 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:39:54,623 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:40:52,022 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:41:15,124 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:41:16,464 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:41:16,634 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:42:08,714 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:43:23,980 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:43:31,950 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:43:32,512 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:43:32,687 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:44:02,512 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:46:22,440 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:46:59,162 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:46:59,522 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:46:59,682 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:47:07,254 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:51:35,307 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:51:41,677 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:51:42,860 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:51:43,030 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:52:12,517 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 14:53:43,274 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 14:54:09,955 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 14:54:10,751 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 14:54:10,931 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 14:54:22,012 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:22:34,519 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:22:44,628 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:22:46,379 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:22:47,255 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:23:15,665 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:28:57,579 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:29:25,507 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:29:25,977 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:29:26,147 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:29:40,909 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:30:22,346 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:30:54,927 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:30:55,667 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:30:56,487 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:31:13,275 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:40:48,485 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:41:11,668 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:41:33,158 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:41:33,328 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:41:43,057 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:43:40,505 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:44:09,321 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:44:10,088 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:44:13,258 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:44:27,543 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:45:57,441 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:46:05,764 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:46:06,316 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:46:09,507 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:46:28,769 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 15:55:31,382 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 15:55:40,962 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 15:55:41,293 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 15:55:44,477 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 15:56:18,997 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:08:55,062 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:09:03,240 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:09:04,196 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:09:07,388 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:09:23,275 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:11:03,639 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:11:11,135 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:11:11,830 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:11:15,027 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:11:28,179 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:14:23,969 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:14:31,005 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:14:32,136 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:14:35,325 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:14:47,672 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:43:56,309 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:44:09,656 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:44:10,440 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:44:13,620 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:44:26,506 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:45:25,815 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:45:38,192 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:45:38,958 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:45:42,141 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:45:58,707 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:47:10,499 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:48:16,321 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:48:16,681 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:48:19,871 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:48:34,515 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:55:12,430 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:55:22,252 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:55:22,744 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:55:25,940 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:55:33,696 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:56:59,395 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:57:09,783 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:57:10,486 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:57:13,681 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:57:26,463 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 16:58:53,080 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 16:58:59,232 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 16:59:24,854 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 16:59:28,054 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 16:59:43,539 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:09:34,076 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:09:42,865 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:09:43,924 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:09:47,104 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:10:40,712 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:16:58,359 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:17:04,714 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:17:05,769 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:17:08,973 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:17:21,687 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:21:07,769 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:21:55,940 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:21:57,200 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:22:00,386 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:22:22,708 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:26:56,449 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:27:06,088 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:27:06,440 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:27:09,611 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:27:42,508 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:32:53,952 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:32:59,868 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:33:00,206 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:33:03,425 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:33:15,281 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:42:35,053 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:42:40,941 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:42:41,696 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:42:44,867 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:42:57,686 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:48:50,239 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:48:57,723 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:48:58,709 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:48:58,908 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:49:05,316 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:49:53,353 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:50:03,083 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:50:03,428 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:50:03,605 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:50:34,845 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:54:11,900 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:54:18,096 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:54:18,435 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:54:18,617 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:54:24,198 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:54:44,636 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:54:51,903 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:54:52,807 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:54:53,815 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:55:04,047 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 17:58:09,759 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 17:58:23,138 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 17:58:26,516 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 17:58:27,776 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 17:58:37,758 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:01:41,990 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:02:08,142 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:02:11,592 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:02:12,792 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:02:19,840 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:02:42,959 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:03:09,097 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:03:11,768 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:03:12,968 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:03:42,503 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:12:33,510 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:13:00,725 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:13:01,158 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:13:02,340 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:13:13,401 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:18:17,060 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:18:25,005 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:18:44,405 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:18:45,595 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:18:56,725 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:21:07,050 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:21:12,805 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:21:13,152 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:21:14,335 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:21:26,116 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:22:19,365 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:23:04,264 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:23:06,004 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:23:07,204 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:23:59,156 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:25:06,137 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:25:29,334 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:25:30,014 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:25:31,204 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:25:40,973 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 18:27:06,084 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 18:27:50,836 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 18:28:12,466 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 18:28:13,666 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 18:28:26,714 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:04:12,172 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:09:28,773 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:12:33,658 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:12:59,844 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:13:00,814 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:13:02,004 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:13:12,129 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:15:32,329 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:15:38,106 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:15:38,463 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:15:39,768 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:16:08,379 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:17:33,114 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:17:39,629 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:17:40,709 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:17:41,903 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:17:51,504 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:20:33,884 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:20:41,311 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:20:42,335 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:20:43,546 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:20:52,405 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:24:25,437 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:24:34,326 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:24:35,277 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:24:36,465 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:24:46,124 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:35:47,257 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:35:53,627 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:35:54,012 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:35:55,232 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:36:25,798 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-05 19:43:09,387 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-05 19:43:15,578 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-05 19:43:15,971 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-05 19:43:17,172 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-05 19:43:26,135 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:47:09,520 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:47:17,528 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:47:17,880 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:47:19,059 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:47:49,587 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:50:12,462 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:50:19,539 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:50:20,353 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:50:21,552 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:50:36,021 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:52:06,746 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:52:14,439 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:52:15,417 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:52:16,655 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:52:26,967 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:53:06,623 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:53:55,362 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:53:56,158 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:53:57,468 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:54:28,976 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:57:01,256 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:57:07,383 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:57:08,521 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:57:09,717 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:57:18,475 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 10:58:24,311 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 10:58:30,102 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 10:58:31,146 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 10:58:32,357 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 10:58:52,267 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 11:00:15,068 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 11:00:45,750 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 11:00:47,107 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 11:00:48,760 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 11:01:09,672 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 11:32:37,015 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 11:32:43,850 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 11:32:45,075 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 11:32:46,271 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 11:32:56,452 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:05:00,728 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:05:06,583 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:05:07,331 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:05:08,529 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:05:39,175 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:25:59,169 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:26:08,166 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:26:08,633 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:26:09,820 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:26:20,713 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:27:24,174 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:27:32,079 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:27:32,489 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:27:33,698 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:28:08,634 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:35:48,879 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:36:15,800 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:36:35,863 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:36:37,073 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:37:07,434 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:38:46,561 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:38:57,057 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:38:58,114 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:38:59,312 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:39:09,944 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 12:41:24,094 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:52:48,163 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 12:52:54,804 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 12:52:55,164 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 12:52:56,384 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 12:53:09,121 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 13:05:45,743 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 13:06:21,310 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 13:06:21,680 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 13:06:22,880 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 13:08:12,904 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 13:22:52,118 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 13:24:54,889 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 13:24:55,479 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 13:24:56,689 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 13:25:11,899 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 14:48:05,942 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:48:34,547 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 14:48:34,927 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 14:48:36,127 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 14:48:45,191 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 14:49:16,723 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:49:45,795 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:50:31,477 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 14:50:32,497 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 14:50:33,667 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 14:51:09,829 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 14:52:24,589 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:52:51,369 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 14:52:52,169 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 14:52:53,359 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 14:53:09,837 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 14:55:15,403 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:55:43,662 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 14:55:44,102 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 14:55:45,282 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 14:56:08,480 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 14:57:07,040 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 14:57:15,060 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 14:57:15,800 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 14:57:16,986 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 14:58:06,151 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 15:00:38,767 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 15:00:45,045 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 15:00:46,092 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 15:00:47,292 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 15:01:21,625 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 15:25:53,387 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 15:26:16,186 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 15:26:18,726 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 15:26:19,916 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 15:26:39,071 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 15:27:08,656 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 15:27:19,716 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 15:27:20,780 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 15:27:21,963 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 15:28:23,123 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 15:29:44,664 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 15:30:12,169 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 15:30:14,633 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 15:30:15,813 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 15:30:32,462 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 16:01:43,170 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:01:49,703 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:01:50,048 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 16:01:51,264 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 16:02:04,383 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 16:03:07,572 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:03:20,582 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:03:21,638 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 16:03:22,850 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 16:04:05,938 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 16:09:24,819 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:09:52,291 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:14:54,445 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:15:02,538 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:15:03,382 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 16:15:04,581 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 16:15:15,774 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 16:17:27,132 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:17:35,265 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:17:35,586 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 16:17:36,791 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 16:17:48,453 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 16:20:11,421 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 16:20:20,002 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 16:20:20,857 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 16:20:22,064 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 16:20:37,339 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 17:37:31,604 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 17:37:39,879 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 17:37:40,734 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 17:37:41,932 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 17:37:56,115 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 18:28:26,720 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 18:28:42,963 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 18:29:10,011 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 18:29:10,657 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 18:29:11,868 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 18:29:40,792 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 18:50:39,605 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 18:51:15,398 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 18:51:15,868 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 18:51:17,068 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 18:51:26,568 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 18:53:30,561 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 18:53:36,190 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 18:53:36,540 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 18:53:37,731 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 18:53:47,230 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 19:01:57,552 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 19:03:10,033 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 19:03:19,212 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 19:03:19,567 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 19:03:20,756 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 19:03:32,115 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 19:36:03,801 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 19:36:29,742 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 19:36:30,302 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 19:36:31,522 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 19:36:38,095 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 19:39:50,849 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 19:39:57,624 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 19:39:57,970 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 19:39:59,208 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 19:40:08,516 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 19:41:40,943 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 19:42:04,120 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 19:42:04,590 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 19:42:05,820 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 19:42:59,188 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 20:36:13,958 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 20:36:43,089 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 20:36:44,029 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 20:36:45,219 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 20:36:56,384 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-06 20:40:13,458 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-06 20:40:22,513 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-06 20:40:23,489 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-06 20:40:24,676 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-06 20:40:34,498 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 11:01:33,207 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 11:01:40,003 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 11:01:40,375 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 11:01:41,592 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 11:01:52,843 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 11:08:53,876 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 11:09:02,003 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 11:09:02,345 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 11:09:03,547 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 11:09:09,568 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 11:09:38,731 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 11:10:05,107 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 11:10:05,447 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 11:10:06,647 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 11:10:57,895 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:01:42,927 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:02:11,607 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:02:11,954 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:02:13,229 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:02:51,662 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:09:38,869 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:09:50,701 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:09:51,674 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:09:52,947 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:10:02,329 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:24:55,697 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:25:03,901 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:25:04,944 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:25:06,123 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:25:22,653 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:28:14,548 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:28:22,055 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:28:22,553 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:28:23,760 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:28:35,493 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:29:46,599 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:30:31,260 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:30:31,580 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:30:32,750 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:31:02,971 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:34:28,820 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:34:38,377 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:34:57,349 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:34:58,519 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:35:13,621 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-07 12:39:42,895 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-07 12:40:12,059 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-07 12:40:12,639 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-07 12:40:13,799 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-07 12:40:26,188 [main] INFO Actions.MonsterSearchPage - logging the monster suxcessfully
+2017-04-09 14:29:20,060 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 14:29:24,077 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 14:29:24,595 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 15:16:52,625 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 15:16:59,918 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 15:17:00,161 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 17:12:45,266 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 17:12:47,696 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 17:12:47,955 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 17:16:28,447 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 17:16:48,285 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 17:16:56,424 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 17:16:58,293 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 17:17:46,590 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 17:48:20,979 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 17:55:24,475 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 17:58:19,600 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 17:58:35,891 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 17:58:41,026 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 17:58:44,184 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 17:58:59,533 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 18:00:16,198 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 18:00:50,463 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 18:00:51,457 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 18:00:53,107 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 18:01:08,915 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 18:09:54,433 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 18:10:13,565 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 18:10:19,572 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 18:10:21,328 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 18:10:49,233 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 18:17:19,040 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 18:17:39,133 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 18:17:40,962 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 18:17:43,213 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 18:18:15,114 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 20:38:36,425 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 20:39:11,522 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 20:39:29,403 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 20:39:31,420 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 20:39:58,749 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 20:42:28,552 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 20:42:47,608 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 20:42:50,563 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 20:42:52,288 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 20:43:27,843 [main] INFO Actions.MonsterSearchPage - logging the monster successfully
+2017-04-09 20:44:58,328 [main] INFO Actions.MonsterSearchPage - Loading the monster url
+2017-04-09 20:45:31,508 [main] INFO Actions.SeleniumActions - loading the url.........
+2017-04-09 20:45:32,473 [main] INFO Actions.SeleniumActions - closing the subwindow
+2017-04-09 20:45:34,058 [main] INFO Actions.MonsterSearchPage - Enter to the Monster details
+2017-04-09 20:45:48,352 [main] INFO Actions.MonsterSearchPage - logging the monster successfully

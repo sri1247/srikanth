@@ -1,0 +1,217 @@
+package Actions;
+
+import Utility.Constant;
+import Utility.Excelutility;
+import Utility.WriteExcel;
+import locators.LoginPageLocators;
+import locators.SearchLocators;
+import org.apache.log4j.Logger;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import static locators.LoginPageLocators.*;
+
+
+/**
+ * Created by Srikanth on 3/22/2017.
+ */
+
+
+public class MonsterSearchPage extends SeleniumActions {
+    WriteExcel writeExcel = null;
+    /* public PortalBasedonActions(WebDriver driver,PageFactory pageFactory) throws Exception {
+         this.driver=driver;
+         this.pageFactory=pageFactory;
+     }*/
+/*public class PortalBasedonActions extends SeleniumActions implements LoginPageLocators {
+    public  WebDriver driver;
+    public PortalBasedonActions() throws Exception {
+        super();
+
+    }*/
+    Logger logger = Logger.getLogger(MonsterSearchPage.class);
+    //SeleniumActions seleniumActions = new SeleniumActions();
+    Excelutility excelutility = new Excelutility();
+
+    public MonsterSearchPage(WebDriver driver, PageFactory pageFactory) throws Exception {
+        super(driver, pageFactory);
+
+    }
+
+
+
+
+
+
+    public void geturl(String jobPortal) {
+
+        if (jobPortal.equalsIgnoreCase("Monster")) {
+            logger.info("Loading the monster url");
+            open(Constant.monsterURL);
+            closechildwindow();
+                    }
+                    else if (jobPortal.equals("Naukri")) {
+
+            }
+        }
+
+
+    public void login(String jobPortal, String username, String password) throws Exception {
+        try {
+            clickOnEle("xpath", monsterclickOnLoginPage);
+            if (jobPortal.equalsIgnoreCase("naukri")) {
+            } else if (jobPortal.equalsIgnoreCase("monster")) {
+                logger.info("Enter to the Monster details");
+                setValue("xpath", LoginPageLocators.monsterUsernameLocator, username);
+                setValue("xpath", LoginPageLocators.monsterPasswordLocator, password);
+                clickOnEle("xpath", LoginPageLocators.monsterClickButton);
+                logger.info("logging the monster suxcessfully");
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void sendData(String value, String locatorvalue) {
+
+        setValue("xpath", locatorvalue, value);
+
+    }
+
+    public void enterondropdownvalue(String locVal, String locVal1, String value) throws InterruptedException {
+             threadSleep(3000);
+        try {
+            clickOnEle("xpath", locVal);
+            setValueEnter("xpath", locVal1,value);
+            clickOnEle("xpath", locVal);
+              } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void selectIndustry(String value) {
+
+        try {
+
+            threadSleep(3000);
+            clickOnEle("xpath", SearchLocators.industrylocator);
+            clickOnEle("xpath", "//div[contains(text(),'" + value + "')]");
+            //click(locator);
+
+            clickOnEle("xpath", SearchLocators.industrylocator);
+            //  driver.findElement(By.xpath(locator)).sendKeys(Keys.TAB);
+        } catch (Exception e) {
+            System.out.println("isssue is here" + e.getMessage());
+            e.printStackTrace();
+        }
+
+    }
+
+
+    public void selectOnLinkText(String locval, String value) {
+
+        try {
+            threadSleep(5000);
+            WebElement companyType = createWebElement("xpath", locval);
+            clickOnEle(companyType);
+            WebElement selectValue = createWebElement(companyType, "linktext", value);
+            clickOnEle(selectValue);
+
+
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void selectRole(String value, String value1) {
+        clickOnEle("xpath", SearchLocators.choosefromAllRoles);
+        WebElement roleType = createWebElement("xpath", "//div[@id='otherRole_container']//div[@title='"+value+"']");
+        clickOnEle(roleType);
+        String dataID = roleType.getAttribute("data-id");
+        WebElement subRoleType = createWebElement("xpath", "//div[@id='" + dataID + "']/div[@title='" + value1 + "']");
+        clickOnEle(subRoleType);
+        clickOnEle("xpath", SearchLocators.choosefromAllRoles);
+    }
+
+    public void selectyearofpassing(String locval, String value) {
+        clickOnEle("xpath", locval);
+        WebElement elm = createWebElement("xpath", locval);
+        WebElement elem1 = createWebElement(elm, "xpath", "//a[text()='" + value + "']");
+        clickOnEle(elem1);
+    }
+
+    public void selectSalary(String locval,String value){
+        clickOnEle("xpath",locval);
+        WebElement salary=createWebElement("xpath",locval);
+        WebElement salaryRange=createWebElement(salary,"xpath","//div[text()='"+value+"']");
+        clickOnEle(salaryRange);
+        clickOnEle("xpath",locval);
+    }
+
+    public void selectSpecialization(String locval, String value, String value1) {
+        clickOnEle("xpath", locval);
+        WebElement specialCourse = driver.findElement(By.xpath("//div[@id='specialization_container']//div[@title='" + value + "']"));
+        // WebElement sub=IT.findElement(By.xpath("//div[@id='selFsp_accord_selFsp_8']/div[@title='Agriculture']"));
+        // IT.click();
+        String dataID = specialCourse.getAttribute("data-id");
+        WebElement specialGroup = driver.findElement(By.xpath("//div[@id='" + dataID + "']/div[@title='" + value1 + "']"));
+        specialGroup.click();
+        //sub.click();
+        clickOnEle("xpath", locval);
+    }
+
+    public void selectValueinDropDownByName(String locator, String value) throws RuntimeException {
+        try {
+            Select select = new Select(driver.findElement(By.xpath(locator)));
+            List <WebElement> elementCount = select.getOptions();
+            int iSize = elementCount.size();
+
+            for (int i = 0; i > iSize; i++) {
+                String sValue = elementCount.get(i).getText();
+                if (value.toUpperCase().equalsIgnoreCase(sValue.toUpperCase())) ;
+                select.selectByValue(sValue);
+            }
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+    public  void  logout(){
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        WebElement logoutLocator=driver.findElement(By.xpath("//a[@class='userlogout']"));
+
+        js.executeScript("arguments[0].click();", logoutLocator);}
+
+    public void getprofilesData() throws Exception {
+        ArrayList data = new ArrayList();
+        writeExcel = new WriteExcel();
+
+        List <WebElement> list = driver.findElements(By.xpath("//div[@class='ritemheader']"));
+        List <WebElement> info = driver.findElements(By.xpath("//div[@class='crinfo']"));
+        int i=0;
+        for (int a = 0; a <= list.size() - 1; a++) {
+            String s = list.get(a).getText();
+            String w = info.get(a).getText();
+                data.add(i, s+w);
+                  i++;
+            }
+            System.out.println(data);
+            writeExcel.writeDataToExcel(data);
+        }
+
+    }
+
+
+
+
+
+
+
+
